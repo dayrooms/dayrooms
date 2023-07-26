@@ -13,4 +13,4 @@
 <p align="center">
 2lone | 2019-2023
 <p align="center">
-    <a href="https://discord.gg/lit">current com server</a>
+    <a href="https://discord.gg/groupchat">current com server</a>
