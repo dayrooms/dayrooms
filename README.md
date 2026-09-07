@@ -11,6 +11,6 @@
   <img src="[https://discord.c99.nl/widget/theme-4/1116052806428786850.png](https://discord.c99.nl/widget/theme-4/1116052806428786850.png)"/>
 </p>
 <p align="center">
-<@1116052806428786850> | 2019-2026
+ dc @foreignbank | 2019-2026
 <p align="center">
     <a href="https://discord.gg/pape">current com server</a>
